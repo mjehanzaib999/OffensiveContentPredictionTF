@@ -33,13 +33,7 @@ A gradio UI demo is giving below. The UI takes both Video or and Video URL and c
   6. identity_hate
   7. Not Offensive
 
-
-https://github.com/mjehanzaib999/OffensiveContentPredictionTF/assets/66511746/0705ea43-cb70-40e8-abcc-a2da81b615f0
-
-
-
-
-
+https://github.com/mjehanzaib999/OffensiveContentPredictionTF/assets/66511746/9656528c-687b-4de2-89f4-600b58990cd9
 
 
 
