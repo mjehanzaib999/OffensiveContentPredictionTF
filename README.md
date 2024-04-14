@@ -18,7 +18,7 @@ OffensiveContentPredictionTF
 
 Refer to the audio_transcription_notebook.ipynb for the code. The notebook offers data preparation, training, inference, and gradio UI implementations for performing realtime inference.
 
-</div></div>
+</div>
 
 <div align="left">
 ## Dataset 
@@ -35,5 +35,6 @@ A gradio UI demo is giving below. The UI takes both Video or and Video URL and c
   6. identity_hate
   7. Not Offensive
 </div></div>
+</div>
 
 
